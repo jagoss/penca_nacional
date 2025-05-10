@@ -1,0 +1,20 @@
+{
+  "Montevideo": {
+    "intendente": "Mario Bergara",
+    "municipio": "CH",
+    "agrupacion_alcalde": "Frente Amplio",
+    "alcalde": "Mónica Caffa"
+  },
+  "Canelones": {
+    "intendente": "Francisco Legnani"
+  },
+  "Salto": {
+    "intendente": "Álvaro Lima"
+  },
+  "Artigas": {
+    "intendente": "Nicolás Lorenzo"
+  },
+  "Maldonado": {
+    "intendente": "Rodrigo Blás"
+  }
+}
