@@ -1,0 +1,83 @@
+{
+  "juan": {
+    "Artigas": {
+      "partido": "Frente Amplio",
+      "intendente": "Marianela Olivera"
+    },
+    "Canelones": {
+      "partido": "Frente Amplio",
+      "intendente": "Francisco Legnani"
+    },
+    "Cerro Largo": {
+      "partido": "Frente Amplio",
+      "intendente": "Lizeth Ruíz"
+    },
+    "Colonia": {
+      "partido": "Frente Amplio",
+      "intendente": "Nicolás Viera Díaz"
+    },
+    "Durazno": {
+      "partido": "Frente Amplio",
+      "intendente": "Raúl Licandro"
+    },
+    "Flores": {
+      "partido": "Frente Amplio",
+      "intendente": "Virginia Bidegain"
+    },
+    "Florida": {
+      "partido": "Frente Amplio",
+      "intendente": "Juan Francisco Giachetto"
+    },
+    "Lavalleja": {
+      "partido": "Frente Amplio",
+      "intendente": "Javier Umpiérrez"
+    },
+    "Maldonado": {
+      "partido": "Frente Amplio",
+      "intendente": "Eduardo Antonini"
+    },
+    "Montevideo": {
+      "partido": "Frente Amplio",
+      "intendente": "Mario Bergara",
+      "municipio": "B",
+      "agrupacion_alcalde": "Frente Amplio",
+      "alcalde": "Andrea Fernández"
+    },
+    "Paysandú": {
+      "partido": "Frente Amplio",
+      "intendente": "Guillermo Caraballo"
+    },
+    "Río Negro": {
+      "partido": "Frente Amplio",
+      "intendente": "Guillermo Levratto"
+    },
+    "Rivera": {
+      "partido": "Frente Amplio",
+      "intendente": "Soledad Tavares Sequeira"
+    },
+    "Rocha": {
+      "partido": "Frente Amplio",
+      "intendente": "Aníbal Pereyra"
+    },
+    "Salto": {
+      "partido": "Frente Amplio",
+      "intendente": "Ramón Fonticiella"
+    },
+    "San José": {
+      "partido": "Frente Amplio",
+      "intendente": "María Noel Battaglino"
+    },
+    "Soriano": {
+      "partido": "Frente Amplio",
+      "intendente": "Pablo Ponce"
+    },
+    "Tacuarembó": {
+      "partido": "Frente Amplio",
+      "intendente": "Gustavo Guerrero"
+    },
+    "Treinta y Tres": {
+      "partido": "Frente Amplio",
+      "intendente": "Sergio Mier"
+    }
+  }
+}
